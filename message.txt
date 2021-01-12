@@ -1,0 +1,19 @@
+<pre>Hi,
+
+I got to know about an oppurtunity for Python Developer Role,
+I have knowledge on Django,Flask,FastAPI,Pandas,numpy,RestAPI Packages.
+
+This mail is regarding my application for the profile.
+Please find the attachment of my Resume.
+
+I look forward to connecting with you to futher discuss this exciting oppurtunity.
+Thanks for your time and consideration.
+
+<a href=" https://kfqljzrng7.execute-api.us-east-1.amazonaws.com/default/MyResume">online profilelink</a>
+
+with Regards,
+ARUN Sai Vemana.
+mobile:- <a href="https://api.whatsapp.com/send?phone=+917259422227">+91 7259422227</a>
+<a href="https://www.linkedin.com/in/arun-sai-b58b9482/">Linkedin</a>
+<a href="https://github.com/arunvemana/">GITHUB</a>
+</pre>
